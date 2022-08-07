@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif) -->
 <h1 align="center">Hi 👋, I'm Chandrakumaran Subiharan</h1>
-<h3 align="center">A passionate UI/UXer, Frontend & Software Dev from Sri Lanka.</h3>
+<h3 align="center">A passionate UI/UXer & Frontend Dev from Sri Lanka.</h3>
 <img align="right" alt="coding" width="400" src="https://media-exp1.licdn.com/dms/image/C4E12AQGV7q3GCd7yAw/article-cover_image-shrink_423_752/0/1611326318170?e=2147483647&v=beta&t=Jo_SLAUePtQe8gjdvarkgYcQGkavafGa_BtjmCoXwDk">
 
 
